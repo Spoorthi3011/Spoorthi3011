@@ -40,10 +40,8 @@ I build systems where machine learning meets the real world — federated learni
 
 | Project | Status |
 |---|---|
-| 🧬 Lesion Disease Classification — PSO, ACO, Genetic Algorithms + SHAP | `active` |
-| 🤖 Swarm-Based Multi-Agent RL for Search & Rescue — Flower + OpenMP | `active` |
+| Comparison of KLM and ApproxMC| `active` |
 | 📷 Edge AI Robotics — YOLOv8, TFLite, INT8/FP16, UR robot arm | `active` |
-| 🔒 Federated On-Device AI — privacy-preserving ML, TFLite + Flower | `active` |
 
 ---
 
