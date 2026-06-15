@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Spoorthi 👋
 
 **AI Engineer · Machine Learning Engineer · Computer Vision Researcher · MSc Advanced Data Science & AI — University of Liverpool (2025–26)**
@@ -10,12 +9,12 @@ I build intelligent systems that bridge cutting-edge AI research and real-world 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spoorthi-J-S&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spoorthi-J-S&layout=compact&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Spoorthi3011&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spoorthi3011&layout=compact&theme=default" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Spoorthi-J-S" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Spoorthi3011" height="165"/>
 </p>
 
 ---
@@ -137,4 +136,3 @@ Interested in roles involving Computer Vision, Deep Learning, Healthcare AI, Edg
 ---
 
 > “Using AI to build intelligent systems that create real-world impact through research, innovation, and deployment.”
-```
